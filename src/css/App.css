@@ -167,4 +167,10 @@ header {
     margin-top: 0;
   }
 
+  .clear-input-button {
+    top: 3.6rem;
+    right: 67px;
+    left: auto;
+  }
+
 }
